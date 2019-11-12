@@ -1,5 +1,5 @@
 // Code your solutions in this file
-arrayName = ['Lisa', 'Kaitlin', 'Jan']
+
 
 function writeCards(arrayName, eventName) {
     let thankYouCards = []
