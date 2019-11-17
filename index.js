@@ -6,3 +6,10 @@ function writeCards(array, eventName) {
   }
   return cards 
 }
+
+function countDown(num){
+  while (num > -1) {
+    console.log(num);
+    num--;
+  }
+}
